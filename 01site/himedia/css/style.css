@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+header#header{_width: 100%;_background-color: skyblue;}
+header#header>div.header_top{border-bottom: 1px solid #ddd;}
+header#header>div.header_top>nav.menu{width: 980px; margin: 0 auto; _background-color: #f00;}
+
+nav.menu>ul{float: right;}
+nav.menu>ul>li{float: left;}
+nav.menu>ul>li>a{display: block;}
